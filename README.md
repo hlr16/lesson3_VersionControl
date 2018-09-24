@@ -13,6 +13,9 @@ Web Application Development
 ## Project Description:
 (The purpose of this assignment is to intialize git hub and edit the index.html file to describe lessons learned in this module.)
 
+## View Project: 
+(https://hlr16.github.io/lesson3_VersionControl/) 
+
 ## Lessons Learned in the Assignment:
 1. (I learned GitHub. I had never used it before so I learned how to intialize and commit projects to GitHub.)
 2. (I strengthened my knowledge on reading and editing code.)
