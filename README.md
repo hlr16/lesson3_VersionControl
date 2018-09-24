@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 22, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Hannah Rittenhouse)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(The purpose of this assignment is to intialize git hub and edit the index.html file to describe lessons learned in this module.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned GitHub. I had never used it before so I learned how to intialize and commit projects to GitHub.)
+2. (I strengthened my knowledge on reading and editing code.)
+3. (I learned what a version control system does. I also learned some of the pit falls and strngths of version control systems. )
 
